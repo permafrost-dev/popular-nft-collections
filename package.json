@@ -56,7 +56,7 @@
         "dts-bundle-generator": "^6.7.0",
         "esbuild": "^0.14.34",
         "esbuild-plugin-decorator": "^0.4.0",
-        "eslint": "^8.13.0",
+        "eslint": "^9.26.0",
         "eslint-plugin-jest": "^26.1.4",
         "eslint-plugin-node": "^11.1.0",
         "husky": "^7.0.4",
